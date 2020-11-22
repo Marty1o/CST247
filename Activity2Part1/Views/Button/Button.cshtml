@@ -1,0 +1,47 @@
+﻿@model List<Activity2Part1.Models.ButtonModel>
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Button</title>
+</head>
+<body>
+    <div>
+
+        @Html.Label("Welcome To Razor", new { style = "font-family: Arial; font-size: 24px; width: 100%; text-align: center;" })
+        <div></div>
+        @Html.Label("Play With Buttons", new { style = "font-family: Arial; font-size: 24px; width: 100%; text-align: left;" })
+    </div>
+    <div>
+        @using (Html.BeginForm("OnButtonClick", "Button", FormMethod.Get))
+        {
+            <button type="submit" name="mine" value="1">
+                @if (Model[0].State)
+                {
+                    <img src="~/Images/button1.jpg" />
+                }
+                else
+                {
+                    <img src="~/Images/button2.jpg" />
+                }
+
+            </button>
+            <button type="submit" name="mine" value="2">
+                @if (Model[1].State)
+                {
+                    <img src="~/Images/button1.jpg" />
+                }
+                else
+                {
+                    <img src="~/Images/button2.jpg" />
+                }
+
+            </button>
+        }
+
+
+    </div>
+</body>
+</html>
