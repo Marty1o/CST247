@@ -1,0 +1,144 @@
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\ApplicationInsights.config
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Activity7.dll.config
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Activity7.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Activity7.pdb
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.Web.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Helpers.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Mvc.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Razor.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Webpages.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.Web.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Razor.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Webpages.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Helpers.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\System.Web.Mvc.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\obj\Debug\Activity7.csprojAssemblyReference.cache
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\obj\Debug\Activity7.csproj.CoreCompileInputs.cache
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\obj\Debug\Activity7.csproj.CopyComplete
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\obj\Debug\Activity7.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\obj\Debug\Activity7.pdb
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\csc.exe
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\vbc.exe
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Activity7\Activity7\Activity7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\ApplicationInsights.config
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\csc.exe
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\vbc.exe
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Activity7.dll.config
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Activity7.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Activity7.pdb
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.Web.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Helpers.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Mvc.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Razor.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Webpages.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.Web.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Razor.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Webpages.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Helpers.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\bin\System.Web.Mvc.xml
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\obj\Debug\Activity7.csprojAssemblyReference.cache
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\obj\Debug\Activity7.csproj.CoreCompileInputs.cache
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\obj\Debug\Activity7.csproj.CopyComplete
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\obj\Debug\Activity7.dll
+C:\Users\Pengyu\Desktop\CHenderson Files\CST 247\Gordon Code\Activity7\Activity7\Activity7\obj\Debug\Activity7.pdb
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\ApplicationInsights.config
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\csc.exe
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\vbc.exe
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Activity7.dll.config
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Activity7.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Activity7.pdb
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.Web.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Helpers.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Mvc.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Razor.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Webpages.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Webpages.Razor.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.Web.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Razor.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Webpages.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Webpages.Razor.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Helpers.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\bin\System.Web.Mvc.xml
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\obj\Debug\Activity7.csprojAssemblyReference.cache
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\obj\Debug\Activity7.csproj.CoreCompileInputs.cache
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\obj\Debug\Activity7.csproj.CopyComplete
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\obj\Debug\Activity7.dll
+C:\Users\Marty\Dropbox\MyPC\Desktop\New folder (2)\Activity 8\Activity7\Activity7\obj\Debug\Activity7.pdb

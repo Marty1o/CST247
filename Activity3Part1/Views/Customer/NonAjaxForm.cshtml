@@ -1,0 +1,34 @@
+﻿@using Activity_3.Models
+@model Tuple<List<CustomerModel>, CustomerModel>
+@{
+    ViewBag.Title = "Customer Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<h4> @Html.Label("Please select a Customer") </h4>
+
+@using (Html.BeginForm("OnSelectCustomer1", "Customer", FormMethod.Post, new { id = "myform" }))
+{
+    @Html.AntiForgeryToken();
+
+    var selected = false;
+    foreach (var customer in Model.Item1)
+    {
+        if (Model.Item1.IndexOf(customer) == 0)
+        {
+            selected = true;
+        }
+        else
+        {
+            selected = false;
+        }
+        @Html.RadioButton("Customer", customer.ID, selected, new { onchange = "$('#myform').trigger('submit');" });
+        @Html.Label(customer.Name);
+    }
+
+    <hr />
+    <div id="customerInfo">
+        @Html.Partial("_CustomerDetails", Model.Item2)
+    </div>
+}

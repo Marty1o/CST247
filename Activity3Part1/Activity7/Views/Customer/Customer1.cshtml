@@ -1,0 +1,50 @@
+﻿@using Activity7.Models
+@model Tuple<List<CustomerModel>, CustomerModel>
+
+<!-- Razor Page variables -->
+@{
+    ViewBag.Title = "Customer Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+}
+
+<!-- Simple HTML Form for selecting a Customer -->
+<h4> @Html.Label("Please select a Customer:") </h4>
+
+<!-- The Form below is a standard non AJAX Form -->
+<!-- To see how the Page would work without AJAX uncomment the form below and then comment out the AJAX based form -->
+@*
+    @using (Html.BeginForm("OnSelectCustomer1", "Customer", FormMethod.Post))
+*@ 
+@using (Html.BeginForm("OnSelectCustomer1", "Customer", FormMethod.Post, new { id = "myform" }))
+{
+    @Html.AntiForgeryToken();
+
+    var selected = false;
+    foreach (var customer in Model.Item1)
+    {
+        if (Model.Item1.IndexOf(customer) == 0)
+        {
+            selected = true;
+        }
+        else
+        {
+            selected = false;
+        }
+        @Html.RadioButton("Customer", customer.ID, selected, new { onchange = "$('#myform').trigger('submit');" });
+        @Html.Label(customer.Name);
+    }
+    <!-- The Form Submit as coded is currently done via the Radio button onchange handler via jQuery -->
+    <!-- To use one of the Submit buttons below remove the Radio button onchange handler and uncomment desired Submit button -->
+    <!-- <input type="submit" id="SubmitButton" value="Display" /> -->
+    <!-- <button type="button" onclick="$('#myform').trigger('submit');"><img width="30px" height="30px" src="~/Images/button.jpg"/></button> -->
+    <br />
+    <br />
+    <hr />
+    <!-- Partial View for displaying the Customer Details (within this div)-->
+    <div id="customerInfo">
+        @Html.Partial("_CustomerDetails", Model.Item2)
+    </div>
+}
+
+
