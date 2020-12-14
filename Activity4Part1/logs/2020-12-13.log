@@ -1,0 +1,21 @@
+2020-12-13 17:28:06.8037 INFO Entering LoginController.Login()
+2020-12-13 17:28:07.7258 INFO Parameters are:
+2020-12-13 17:28:07.7297 INFO Exit LoginController.DoLogin() with login passing
+2020-12-13 17:28:14.0907 INFO Entering LoginController.Login()
+2020-12-13 17:28:14.0907 INFO Parameters are:
+2020-12-13 17:28:14.0907 INFO Exit LoginController.DoLogin() with login failing
+2020-12-13 17:31:39.5724 INFO Entering LoginController.Login()
+2020-12-13 17:31:39.6364 INFO Parameters are:
+2020-12-13 17:31:39.6364 INFO Exit LoginController.DoLogin() with login passing
+2020-12-13 17:31:56.5609 INFO Entering LoginController.Login()
+2020-12-13 17:31:56.5609 INFO Parameters are:
+2020-12-13 17:31:56.5609 INFO Exit LoginController.DoLogin() with login failing
+2020-12-13 17:32:19.5158 INFO Entering LoginController.Login()
+2020-12-13 17:32:19.5158 INFO Parameters are:
+2020-12-13 17:32:19.5158 INFO Exit LoginController.DoLogin() with login failing
+2020-12-13 17:33:07.9078 INFO Entering LoginController.Login()
+2020-12-13 17:33:07.9812 INFO Parameters are:
+2020-12-13 17:33:07.9812 INFO Exit LoginController.DoLogin() with login failing
+2020-12-13 17:33:17.0521 INFO Entering LoginController.Login()
+2020-12-13 17:33:17.0576 INFO Parameters are:
+2020-12-13 17:33:17.0576 INFO Exit LoginController.DoLogin() with login passing
